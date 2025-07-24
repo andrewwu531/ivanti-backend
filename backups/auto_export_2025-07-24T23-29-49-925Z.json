@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-24T23:44:43.701Z",
+  "timestamp": "2025-07-24T23:29:49.927Z",
   "recordCount": 6,
   "data": [
     {
@@ -125,25 +125,19 @@
       "updatedAt": "2025-07-24 20:45:41"
     },
     {
-      "personName": "Robert Bonner",
+      "personName": "BC",
       "temperatureSeries": [
-        3,
-        2,
-        9,
-        12,
-        -2,
-        -9,
-        -3.3,
-        2,
-        3,
-        -9,
-        12,
-        10
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
       ],
-      "closestToZero": 2,
-      "recordedAt": "2025-07-24 23:31:08",
-      "createdAt": "2025-07-24 23:31:08",
-      "updatedAt": "2025-07-24 23:31:08"
+      "closestToZero": 1,
+      "recordedAt": "2025-07-24 23:29:49",
+      "createdAt": "2025-07-24 23:29:49",
+      "updatedAt": "2025-07-24 23:29:49"
     }
   ]
 }

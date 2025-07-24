@@ -9,32 +9,149 @@ const db = new sqlite3.Database(dbPath);
 
 // This data will be automatically updated by the system
 let currentData = [
-  {
-    personName: "Jane Smith",
-    temperatureSeries: [
-      10, -5, 2, 3, 8, -8, -2, -2.5, 9, 4.2, -1, 1.8, 4, 6.5, -11, 1.1,
-    ],
-  },
-  {
-    personName: "Mike Johnson",
-    temperatureSeries: [
-      3, -5, -8, 12, 5, 9, -2, -7.5, 4.2, -11.2, 6.5, 5.4, -7, -8.9, 1.2, 5.5,
-      2, -2.5,
-    ],
-  },
-  {
-    personName: "Sarah Wilson",
-    temperatureSeries: [
-      2, -12, -5, -1, 8, 3, -2, -0.5, 9, -2.8, 2, 1.2, -3, -4.1, 7,
-    ],
-  },
-  {
-    personName: "David Brown",
-    temperatureSeries: [
-      -1, -2, -6, 8, 3, 6, -4, -7.5, 2, 7.2, -5, -3.4, 7, 5.9,
-    ],
-  },
+  [
+    {
+      "personName": "Jane Smith",
+      "temperatureSeries": [
+        10,
+        -5,
+        2,
+        3,
+        8,
+        -8,
+        -2,
+        -2.5,
+        9,
+        4.2,
+        -1,
+        1.8,
+        4,
+        6.5,
+        -11,
+        1.1
+      ]
+    },
+    {
+      "personName": "Mike Johnson",
+      "temperatureSeries": [
+        3,
+        -5,
+        -8,
+        12,
+        5,
+        9,
+        -2,
+        -7.5,
+        4.2,
+        -11.2,
+        6.5,
+        5.4,
+        -7,
+        -8.9,
+        1.2,
+        5.5,
+        2,
+        -2.5
+      ]
+    },
+    {
+      "personName": "Sarah Wilson",
+      "temperatureSeries": [
+        2,
+        -12,
+        -5,
+        -1,
+        8,
+        3,
+        -2,
+        -0.5,
+        9,
+        -2.8,
+        2,
+        1.2,
+        -3,
+        -4.1,
+        6,
+        10
+      ]
+    },
+    {
+      "personName": "David Brown",
+      "temperatureSeries": [
+        -1,
+        -2,
+        -6,
+        8,
+        3,
+        6,
+        -4,
+        -7.5,
+        2,
+        7.2,
+        -5,
+        -3.4,
+        7,
+        5.9
+      ]
+    },
+    {
+      "personName": "Stewart Brown",
+      "temperatureSeries": [
+        7,
+        4,
+        -5,
+        -3.5,
+        2.2,
+        3,
+        7,
+        -7,
+        -4.3,
+        -3.5,
+        5,
+        9,
+        10
+      ]
+    },
+    {
+      "personName": "Robert Bonner",
+      "temperatureSeries": [
+        3,
+        2,
+        9,
+        12,
+        -2,
+        -9,
+        -3.3,
+        2,
+        3,
+        -9,
+        12,
+        10
+      ]
+    }
+  ]
 ];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 function findClosestToZero(temperatures) {
   if (temperatures.length === 0) {

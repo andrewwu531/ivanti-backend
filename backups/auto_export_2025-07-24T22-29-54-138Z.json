@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-24T23:44:43.701Z",
+  "timestamp": "2025-07-24T22:29:54.139Z",
   "recordCount": 6,
   "data": [
     {
@@ -71,13 +71,12 @@
         1.2,
         -3,
         -4.1,
-        6,
-        10
+        6
       ],
       "closestToZero": -0.5,
       "recordedAt": "2025-07-24 18:52:47",
       "createdAt": "2025-07-24 18:52:47",
-      "updatedAt": "2025-07-24 23:18:21"
+      "updatedAt": "2025-07-24 20:51:48"
     },
     {
       "personName": "David Brown",
@@ -125,25 +124,25 @@
       "updatedAt": "2025-07-24 20:45:41"
     },
     {
-      "personName": "Robert Bonner",
+      "personName": "Jazzy Howard",
       "temperatureSeries": [
+        1,
+        7,
+        6,
+        -3,
+        -7,
         3,
-        2,
-        9,
-        12,
-        -2,
-        -9,
+        5.5,
+        4.3,
         -3.3,
-        2,
-        3,
+        -8,
         -9,
-        12,
         10
       ],
-      "closestToZero": 2,
-      "recordedAt": "2025-07-24 23:31:08",
-      "createdAt": "2025-07-24 23:31:08",
-      "updatedAt": "2025-07-24 23:31:08"
+      "closestToZero": 1,
+      "recordedAt": "2025-07-24 22:29:40",
+      "createdAt": "2025-07-24 22:29:40",
+      "updatedAt": "2025-07-24 22:29:54"
     }
   ]
 }

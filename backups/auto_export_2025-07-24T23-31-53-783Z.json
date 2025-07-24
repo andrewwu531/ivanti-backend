@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-07-24T23:44:43.701Z",
-  "recordCount": 6,
+  "timestamp": "2025-07-24T23:31:53.784Z",
+  "recordCount": 7,
   "data": [
     {
       "personName": "Jane Smith",
@@ -144,6 +144,27 @@
       "recordedAt": "2025-07-24 23:31:08",
       "createdAt": "2025-07-24 23:31:08",
       "updatedAt": "2025-07-24 23:31:08"
+    },
+    {
+      "personName": "Jason Cook",
+      "temperatureSeries": [
+        1,
+        5,
+        3,
+        -3,
+        -8,
+        4,
+        2,
+        -3.4,
+        -3,
+        8,
+        4,
+        -10
+      ],
+      "closestToZero": 1,
+      "recordedAt": "2025-07-24 23:31:53",
+      "createdAt": "2025-07-24 23:31:53",
+      "updatedAt": "2025-07-24 23:31:53"
     }
   ]
 }

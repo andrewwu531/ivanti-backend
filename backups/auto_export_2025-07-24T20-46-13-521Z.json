@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-24T23:44:43.701Z",
+  "timestamp": "2025-07-24T20:46:13.522Z",
   "recordCount": 6,
   "data": [
     {
@@ -71,13 +71,12 @@
         1.2,
         -3,
         -4.1,
-        6,
-        10
+        7
       ],
       "closestToZero": -0.5,
       "recordedAt": "2025-07-24 18:52:47",
       "createdAt": "2025-07-24 18:52:47",
-      "updatedAt": "2025-07-24 23:18:21"
+      "updatedAt": "2025-07-24 18:52:47"
     },
     {
       "personName": "David Brown",
@@ -125,25 +124,22 @@
       "updatedAt": "2025-07-24 20:45:41"
     },
     {
-      "personName": "Robert Bonner",
+      "personName": "Andrew Wu",
       "temperatureSeries": [
-        3,
+        1,
         2,
-        9,
-        12,
+        3,
+        4,
+        2,
         -2,
-        -9,
-        -3.3,
-        2,
         3,
-        -9,
-        12,
-        10
+        -2,
+        4
       ],
-      "closestToZero": 2,
-      "recordedAt": "2025-07-24 23:31:08",
-      "createdAt": "2025-07-24 23:31:08",
-      "updatedAt": "2025-07-24 23:31:08"
+      "closestToZero": 1,
+      "recordedAt": "2025-07-24 20:46:13",
+      "createdAt": "2025-07-24 20:46:13",
+      "updatedAt": "2025-07-24 20:46:13"
     }
   ]
 }

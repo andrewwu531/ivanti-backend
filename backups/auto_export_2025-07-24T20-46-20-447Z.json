@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-07-24T23:44:43.701Z",
-  "recordCount": 6,
+  "timestamp": "2025-07-24T20:46:20.447Z",
+  "recordCount": 5,
   "data": [
     {
       "personName": "Jane Smith",
@@ -71,13 +71,12 @@
         1.2,
         -3,
         -4.1,
-        6,
-        10
+        7
       ],
       "closestToZero": -0.5,
       "recordedAt": "2025-07-24 18:52:47",
       "createdAt": "2025-07-24 18:52:47",
-      "updatedAt": "2025-07-24 23:18:21"
+      "updatedAt": "2025-07-24 18:52:47"
     },
     {
       "personName": "David Brown",
@@ -123,27 +122,6 @@
       "recordedAt": "2025-07-24 20:14:04",
       "createdAt": "2025-07-24 20:14:04",
       "updatedAt": "2025-07-24 20:45:41"
-    },
-    {
-      "personName": "Robert Bonner",
-      "temperatureSeries": [
-        3,
-        2,
-        9,
-        12,
-        -2,
-        -9,
-        -3.3,
-        2,
-        3,
-        -9,
-        12,
-        10
-      ],
-      "closestToZero": 2,
-      "recordedAt": "2025-07-24 23:31:08",
-      "createdAt": "2025-07-24 23:31:08",
-      "updatedAt": "2025-07-24 23:31:08"
     }
   ]
 }

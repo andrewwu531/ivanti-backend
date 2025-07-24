@@ -1,0 +1,61 @@
+{
+  "timestamp": "2025-07-24T23:32:24.356Z",
+  "operation": "DELETE",
+  "recordId": "41",
+  "data": [
+    {
+      "id": 30,
+      "personName": "Jane Smith",
+      "temperatureSeries": "[10,-5,2,3,8,-8,-2,-2.5,9,4.2,-1,1.8,4,6.5,-11,1.1]",
+      "closestToZero": -1,
+      "recordedAt": "2025-07-24 18:52:47",
+      "createdAt": "2025-07-24 18:52:47",
+      "updatedAt": "2025-07-24 18:52:47"
+    },
+    {
+      "id": 31,
+      "personName": "Mike Johnson",
+      "temperatureSeries": "[3,-5,-8,12,5,9,-2,-7.5,4.2,-11.2,6.5,5.4,-7,-8.9,1.2,5.5,2,-2.5]",
+      "closestToZero": 1.2,
+      "recordedAt": "2025-07-24 18:52:47",
+      "createdAt": "2025-07-24 18:52:47",
+      "updatedAt": "2025-07-24 18:52:47"
+    },
+    {
+      "id": 32,
+      "personName": "Sarah Wilson",
+      "temperatureSeries": "[2,-12,-5,-1,8,3,-2,-0.5,9,-2.8,2,1.2,-3,-4.1,6,10]",
+      "closestToZero": -0.5,
+      "recordedAt": "2025-07-24 18:52:47",
+      "createdAt": "2025-07-24 18:52:47",
+      "updatedAt": "2025-07-24 23:18:21"
+    },
+    {
+      "id": 33,
+      "personName": "David Brown",
+      "temperatureSeries": "[-1,-2,-6,8,3,6,-4,-7.5,2,7.2,-5,-3.4,7,5.9]",
+      "closestToZero": -1,
+      "recordedAt": "2025-07-24 18:52:47",
+      "createdAt": "2025-07-24 18:52:47",
+      "updatedAt": "2025-07-24 18:52:47"
+    },
+    {
+      "id": 34,
+      "personName": "Stewart Brown",
+      "temperatureSeries": "[7,4,-5,-3.5,2.2,3,7,-7,-4.3,-3.5,5,9,10]",
+      "closestToZero": 2.2,
+      "recordedAt": "2025-07-24 20:14:04",
+      "createdAt": "2025-07-24 20:14:04",
+      "updatedAt": "2025-07-24 20:45:41"
+    },
+    {
+      "id": 40,
+      "personName": "Robert Bonner",
+      "temperatureSeries": "[3,2,9,12,-2,-9,-3.3,2,3,-9,12,10]",
+      "closestToZero": 2,
+      "recordedAt": "2025-07-24 23:31:08",
+      "createdAt": "2025-07-24 23:31:08",
+      "updatedAt": "2025-07-24 23:31:08"
+    }
+  ]
+}

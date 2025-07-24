@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-07-24T23:44:43.701Z",
-  "recordCount": 6,
+  "timestamp": "2025-07-24T23:44:34.362Z",
+  "recordCount": 7,
   "data": [
     {
       "personName": "Jane Smith",
@@ -144,6 +144,24 @@
       "recordedAt": "2025-07-24 23:31:08",
       "createdAt": "2025-07-24 23:31:08",
       "updatedAt": "2025-07-24 23:31:08"
+    },
+    {
+      "personName": "Andrew Wu",
+      "temperatureSeries": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "closestToZero": 1,
+      "recordedAt": "2025-07-24 23:44:34",
+      "createdAt": "2025-07-24 23:44:34",
+      "updatedAt": "2025-07-24 23:44:34"
     }
   ]
 }
