@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-07-25T18:43:26.972Z",
-  "recordCount": 6,
+  "timestamp": "2025-07-25T18:43:26.897Z",
+  "recordCount": 7,
   "data": [
     {
       "personName": "Jane Smith",
@@ -145,6 +145,19 @@
       "recordedAt": "2025-07-24 23:31:08",
       "createdAt": "2025-07-24 23:31:08",
       "updatedAt": "2025-07-25 18:40:48"
+    },
+    {
+      "personName": "John Doe",
+      "temperatureSeries": [
+        37.2,
+        36.8,
+        37.5,
+        36.9
+      ],
+      "closestToZero": 36.8,
+      "recordedAt": "2025-07-25 18:43:26",
+      "createdAt": "2025-07-25 18:43:26",
+      "updatedAt": "2025-07-25 18:43:26"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-07-25T18:43:26.972Z",
-  "recordCount": 6,
+  "timestamp": "2025-07-25T18:39:17.403Z",
+  "recordCount": 7,
   "data": [
     {
       "personName": "Jane Smith",
@@ -138,13 +138,32 @@
         3,
         -9,
         12,
-        10,
-        -5
+        10
       ],
       "closestToZero": 2,
       "recordedAt": "2025-07-24 23:31:08",
       "createdAt": "2025-07-24 23:31:08",
-      "updatedAt": "2025-07-25 18:40:48"
+      "updatedAt": "2025-07-24 23:31:08"
+    },
+    {
+      "personName": "Test A",
+      "temperatureSeries": [
+        1,
+        2,
+        34,
+        34,
+        34,
+        32,
+        2,
+        3,
+        2,
+        3,
+        -4
+      ],
+      "closestToZero": 1,
+      "recordedAt": "2025-07-25 18:39:07",
+      "createdAt": "2025-07-25 18:39:07",
+      "updatedAt": "2025-07-25 18:39:17"
     }
   ]
 }
