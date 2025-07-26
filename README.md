@@ -35,11 +35,17 @@ NODE_ENV=development
 
 ```bash
 # Create database and tables
-npm run populate:reset
+node database/setup.js
 ```
 
-### Update populate.js with current database state
+### 5. Update populate.js with current database state
 
 ```bash
-npm run populate:update
+npm run populate:import
+```
+
+### 6. Run the program
+
+```bash
+npm run dev
 ```
