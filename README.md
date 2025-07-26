@@ -42,3 +42,9 @@ npm run populate:import
 ```bash
 npm run dev
 ```
+
+### 7. Run Jest test suite
+
+```bash
+npm run test
+```
