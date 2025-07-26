@@ -17,14 +17,7 @@ npm install
 
 ### 3. Set up environment variables
 
-Create a `.env` file in the root directory:
-
-```bash
-# Create .env file
-touch .env
-```
-
-Add the following content to `.env`:
+Create a `.env` file in the root directory and add the following content to `.env`:
 
 ```env
 PORT=5000
